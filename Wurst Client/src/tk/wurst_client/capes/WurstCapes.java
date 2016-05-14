@@ -1,5 +1,5 @@
 /*
- * Copyright © 2014 - 2016 | Wurst-Imperium | All rights reserved.
+ * Copyright Â© 2014 - 2016 | Wurst-Imperium | All rights reserved.
  * 
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
@@ -42,7 +42,7 @@ public class WurstCapes
 			{
 				HttpsURLConnection connection =
 					(HttpsURLConnection)new URL(
-						"https://www.wurst-client.tk/api/v1/capes.json")
+						"https://raw.githubusercontent.com/jtrent238/Wurst-Client/17dc72f0d1ba4e3a04f0ccb7c4fff061a06c19c2/Wurst%20Client/src/tk/wurst_client/capes/capes.json")
 						.openConnection();
 				connection.connect();
 				capes =
