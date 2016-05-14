@@ -1,15 +1,16 @@
 > This is an auto-generated error report for the [Wurst Client](https://www.wurst-client.tk).
 
 # Description
-§desc
+Â§desc
 
 # Stacktrace
 ```
-§trace
+Â§trace
 ```
 
 # System details
-- OS: §os
-- Java version: §java
-- Wurst version: §wurst
-- Timestamp: §time
+- OS: Â§os
+- Java version: Â§java
+- Wurst version: Â§wurst
+- Minecraft Version: Â§mcversion
+- Timestamp: Â§time
